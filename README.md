@@ -1,21 +1,29 @@
-##A collection of fun and beginner-friendly Python games. Perfect for practicing Python basics while having fun!
+# 🎯 Python Mini Games Collection
 
-📂 Games Included
-1. 🔢 Number Guessing Game
-The computer picks a random number between a given range.
+A collection of fun and beginner-friendly Python games — perfect for practicing Python basics while having fun!
 
-The player tries to guess it in as few attempts as possible.
+---
 
-Features hints for higher/lower guesses.
+## 📂 Games Included
 
-2. 🎲 Dice Rolling Simulator
-Simulates rolling one or more dice.
+### 1. 🔢 Number Guessing Game
+- The computer picks a random number within a given range.
+- The player tries to guess it in as few attempts as possible.
+- Includes hints for higher/lower guesses.
 
-Displays the result randomly each time.
+### 2. 🎲 Dice Rolling Simulator
+- Simulates rolling one or more dice.
+- Displays a random result every roll.
+- Great for learning Python’s `random` module.
 
-Great for learning about Python’s random module.
+### 3. ✊✋✌ Rock-Paper-Scissors
+- Play against the computer.
+- Classic rules: Rock beats Scissors, Scissors beats Paper, Paper beats Rock.
+- Tracks wins, losses, and ties.
 
-3. ✊✋✌ Rock-Paper-Scissors
-Play against the computer.
+---
 
-Follows classic RPS rules: Rock beats Scissors, Scissors beats Paper, Paper beats Rock.
+## 🚀 How to Run
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/yourrepo.git
