@@ -20,9 +20,10 @@ while(True):
          break
     else:
         print("Invalid choice!")
+        
 
 """
-#solution of mosh
+"Another Solution"
 """
 import random
 
@@ -37,5 +38,6 @@ while(True):
         break
     else:
         print("Invalid choice!")
+
 
 """
