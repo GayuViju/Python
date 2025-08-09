@@ -1,4 +1,4 @@
-A collection of fun and beginner-friendly Python games. Perfect for practicing Python basics while having fun!
+##A collection of fun and beginner-friendly Python games. Perfect for practicing Python basics while having fun!
 
 📂 Games Included
 1. 🔢 Number Guessing Game
